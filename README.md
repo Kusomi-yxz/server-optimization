@@ -1,4 +1,4 @@
-# server-optimization
+# server-optimization for purpur
 
 Free pre-config for purpur server
 
